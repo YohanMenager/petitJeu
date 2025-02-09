@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    overflow: hidden; /* Empêche le scrolling */
+    height: 100%;
+}
+
+#myCanvas {
+    border: 1px solid black;
+    background-color: lightgrey;
+    background-image: url('../assets/images/fond.png');
+    background-size: cover;
+}
